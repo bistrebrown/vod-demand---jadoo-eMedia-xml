@@ -1,0 +1,10 @@
+<xml>
+<channel>
+<version>1.0</version>
+<name>Video On Demand</name>
+<description>small channel description goes here</description>
+<encryption>YES</encryption>
+<channel_logo>http://djanalblas.nl/wp-content/uploads/2012/11/Warner-VOD-Logo.png</channel_logo>
+<base_url>https://dl.dropboxusercontent.com/s/9mahmdars4bmt4u/1TierBaseXml_VOD.xml?dl=0</base_url>
+</channel>
+</xml>
