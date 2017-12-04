@@ -4,7 +4,9 @@
 <name>Video On Demand</name>
 <description>small channel description goes here</description>
 <encryption>YES</encryption>
-<category_type>vodCategory</category_type>
+<category_type>movieCategory</category_type>
+<mastertype>Movie</mastertype>
+<category_view>1-TierView</category_view>
 <channel_logo>http://djanalblas.nl/wp-content/uploads/2012/11/Warner-VOD-Logo.png</channel_logo>
 <base_url>https://dl.dropboxusercontent.com/s/9mahmdars4bmt4u/1TierBaseXml_VOD.xml?dl=0</base_url>
 </channel>
